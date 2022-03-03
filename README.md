@@ -21,11 +21,11 @@ The logitech uses a female shifter, let's see the pinout
 &nbsp;6&nbsp;7&nbsp;8&nbsp;9<br/>
 
 
-Pin 2 -> X Axis <br />
-Pin 7 -> Y Axis <br />
-Pin 4 -> Reverse Button<br />
+Pin 4 -> X Axis <br />
+Pin 8 -> Y Axis <br />
+Pin 2 -> Reverse Button<br />
 Pin 3,7 -> Vcc<br />
-Pin 9 -> Ground<br />
+Pin 6 -> Ground<br />
 
 # Arduino Pinout
 
