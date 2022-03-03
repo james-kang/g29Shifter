@@ -24,7 +24,7 @@ The logitech uses a female shifter, let's see the pinout
 Pin 2 -> X Axis <br />
 Pin 7 -> Y Axis <br />
 Pin 4 -> Reverse Button<br />
-Pin 3,8 -> Vcc<br />
+Pin 3,7 -> Vcc<br />
 Pin 9 -> Ground<br />
 
 # Arduino Pinout
@@ -32,11 +32,11 @@ Pin 9 -> Ground<br />
 After soldering the wires to the male DB9 make the connections to match according to this
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DB9 <br />
-A0 -> Pin 2 <br/>
-A2 -> Pin 7 <br />
-D2 -> Pin 4 <br />
-Vcc -> Pin 3,8<br />
-GND -> Pin 9 <br />
+A0 -> Pin 4 <br/>
+A2 -> Pin 8 <br />
+D2 -> Pin 2 <br />
+Vcc -> Pin 3,7<br />
+GND -> Pin 6 <br />
 
 
 # Contributors
