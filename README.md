@@ -8,7 +8,7 @@ The shifter Internally uses 2 potentiometer and a button for the reverse gear
 * Arduino Leonardo or ProMicro
 * DB9 male connector
 * DB9 breakout board for pro micro
-<img src=https://github.com/james-kang/g29Shifter/blob/93500ec4c2540d870335489fedcaf29a87e1c554/breakout_board.png" />
+<img src="https://github.com/james-kang/g29Shifter/blob/93500ec4c2540d870335489fedcaf29a87e1c554/breakout_board.png" />
   
 
 # Shifter Pinout
